@@ -15,6 +15,7 @@
 		65BA42FF21FE238900F78DF7 /* IT2100DNorrisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BA42FE21FE238900F78DF7 /* IT2100DNorrisTests.swift */; };
 		65BA430A21FE238900F78DF7 /* IT2100DNorrisUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BA430921FE238900F78DF7 /* IT2100DNorrisUITests.swift */; };
 		65BA431821FE281600F78DF7 /* Test.wav in Resources */ = {isa = PBXBuildFile; fileRef = 65BA431721FE281600F78DF7 /* Test.wav */; };
+		65BA431B21FE2A7200F78DF7 /* Test.wav in Resources */ = {isa = PBXBuildFile; fileRef = 65BA431A21FE2A7200F78DF7 /* Test.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		65BA430921FE238900F78DF7 /* IT2100DNorrisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IT2100DNorrisUITests.swift; sourceTree = "<group>"; };
 		65BA430B21FE238900F78DF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65BA431721FE281600F78DF7 /* Test.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Test.wav; path = ../../../../Downloads/Test.wav; sourceTree = "<group>"; };
+		65BA431A21FE2A7200F78DF7 /* Test.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Test.wav; path = ../../../../../Downloads/Test.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 		65BA42E821FE237700F78DF7 /* IT2100DNorris */ = {
 			isa = PBXGroup;
 			children = (
+				65BA431A21FE2A7200F78DF7 /* Test.wav */,
 				65BA42E921FE237700F78DF7 /* AppDelegate.swift */,
 				65BA42EB21FE237700F78DF7 /* ViewController.swift */,
 				65BA42ED21FE237700F78DF7 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65BA431821FE281600F78DF7 /* Test.wav in Resources */,
+				65BA431B21FE2A7200F78DF7 /* Test.wav in Resources */,
 				65BA42F421FE238800F78DF7 /* LaunchScreen.storyboard in Resources */,
 				65BA42F121FE238800F78DF7 /* Assets.xcassets in Resources */,
 				65BA42EF21FE237700F78DF7 /* Main.storyboard in Resources */,
