@@ -65,7 +65,7 @@ func concatAll(names: [String]) -> String
     
     for name in names
     {
-      nameCombined = nameCombined + String(name) + ","
+        nameCombined = nameCombined + String(name) + ","
     }
         
     return String(nameCombined)
@@ -73,4 +73,4 @@ func concatAll(names: [String]) -> String
     
 var names: [String] = ["James", "Jane", "Tom", "Sally"]
 print (concatAll(names: names))
-Ç
+
